@@ -2,12 +2,10 @@
 
 ![Profile Views](https://profile-counter.glitch.me/{AmolSamota}/count.svg)
 
-![Profile Views](https://gpvc.arturio.dev/AmolSamota)
 
-![Disha's github stats](https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&theme=radical)
+![Amol's github stats](https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&theme=radical)
 
 <!--
-**mrsac7/mrsac7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
