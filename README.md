@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hello Everyone 👋
 
-![Profile Views](https://profile-counter.glitch.me/{AmolSamota}/count.svg)
-
+![Profile Views](https://gpvc.arturio.dev/AmolSamota)
 
 ![Amol's github stats](https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&theme=radical)
 
