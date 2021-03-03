@@ -4,6 +4,8 @@
 
 ![Profile Views](https://gpvc.arturio.dev/AmolSamota)
 
+![Disha's github stats](https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&theme=radical)
+
 <!--
 **mrsac7/mrsac7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
