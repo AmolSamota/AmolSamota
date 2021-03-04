@@ -2,9 +2,9 @@
 
 ![Profile Views](https://gpvc.arturio.dev/AmolSamota)
 
-![Amol's github stats](https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues,prs&theme=radical)
+![Amol's github stats](https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&hide=issues,prs&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmolSamota&hide=html,css&theme=radical)
 
 <!--
 
