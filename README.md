@@ -23,7 +23,7 @@
 ### GitHub Stats:
 <p align="center">
   <a href="https://github.com/AmolSamota">
-    <img src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues,prs&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Amol Samota&show_icons=true&hide=issues,prs&theme=radical"/>
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 ### Top Languages: 
 <p align="center">
   <a href="https://github.com/AmolSamota">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=html,css&theme=radical" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amol Samota&hide=html,css&theme=radical" align="center" />
   </a>
 </p>
 
