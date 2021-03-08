@@ -15,8 +15,8 @@
 ### About Me:
 
 - 🎓 I am currently a junior undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
-- 👨‍I like to solve real life problems and interested in competitive programming
-- ⚡ I am looking to collaborate with people and enhance my skills as a developer
+- 👨‍I like to solve real life problems and I am interested in competitive programming
+- ⚡ I am looking to collaborate with people/organizations and enhance my skills as a developer
 
 ---
 
@@ -48,4 +48,5 @@
 ---
 
 ### My Portfolio: [Amol Samota](https://amolsamota.netlify.app/)
+### My Codeforces Profile: [amol.samota](https://codeforces.com/profile/amol.samota)
 
