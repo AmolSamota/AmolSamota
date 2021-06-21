@@ -20,11 +20,15 @@
 - 🏋 Apart from coding I love working out and also I have a keen interest in Sketching.
 
 ---
-
+<!-- <p align="center">
+  <a href="https://github.com/karthikeysaxena2507">
+    <img src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues&theme=radical"/>
+  </a>
+</p> -->
 ### GitHub Stats:
 <p align="center">
   <a href="https://github.com/AmolSamota">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&hide=issues,prs&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&hide=issues&theme=radical"/>
   </a>
 </p>
 
