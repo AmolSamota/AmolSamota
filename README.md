@@ -11,7 +11,7 @@
 </p>
 
 ---
-<img src='https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&hide=issues&theme=tokyonight&count_private=true&line_height=49'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmolSamota&theme=tokyonight&hide_langs_below=4' align="middle" />
 ### About Me:
 
