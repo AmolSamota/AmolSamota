@@ -26,7 +26,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues&theme=radical"/>
   </a>
 </p> -->
-### GitHub Stats:
+<!-- ### GitHub Stats:
 <p align="center">
   <a href="https://github.com/AmolSamota">
     <img src="https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&hide=issues&theme=radical"/>
@@ -40,7 +40,7 @@
   <a href="https://github.com/AmolSamota">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolSamota&theme=radical" align="center" />
   </a>
-</p>
+</p> -->
 
 ---
 
