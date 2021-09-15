@@ -52,7 +52,6 @@
 </p>
 
 ---
-
-<!-- ### My Portfolio: [Amol Samota](https://amolsamota.netlify.app/) -->
-<!-- ### My Codeforces Profile: [amol.samota](https://codeforces.com/profile/amol.samota) -->
+### My Portfolio: [Amol Samota](https://amolsamota.netlify.app/) 
+### My Codeforces Profile: [amol.samota](https://codeforces.com/profile/amol.samota)
 
