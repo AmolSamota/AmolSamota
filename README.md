@@ -20,7 +20,6 @@
 - ⚡ I am looking to collaborate with people/organizations and enhance my skills as a developer
 - 🏋 Apart from coding I love working out and also I have a keen interest in Sketching.
 
----
 <!-- <p align="center">
   <a href="https://github.com/karthikeysaxena2507">
     <img src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues&theme=radical"/>
@@ -33,7 +32,6 @@
   </a>
 </p>
 
----
 
 ### Top Languages: 
 <p align="center">
