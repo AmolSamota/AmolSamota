@@ -44,7 +44,7 @@
 
 ### Find Me On:
 <p align="center">
- <a href="https://www.linkedin.com/in/amol-samota-070b38178/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+ <a href="https://www.linkedin.com/in/amol-samota-070b38178/"><img src="https://user-images.githubusercontent.com/71401229/134310137-945024ee-cb4d-4d77-a456-75bccf66307b.jpg" width="60"></a>
 <a href="https://www.facebook.com/amol.samota"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 <a href="https://www.instagram.com/amol.samota/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 </p>
