@@ -15,13 +15,13 @@
  
  <div align = "center">
   
-  <a href="https://github.com/karthikeysaxena2507" title="Redirect's to Karthikey's Github">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&theme=radical&count_private=true" /></a>
+  <a href="https://github.com/AmolSamota" title="Redirect's to AmolSamota's Github">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&theme=radical&count_private=true" /></a>
 
-  <a href="https://github.com/karthikeysaxena2507">
-  <img width="24%" title="Redirect's to Karthikey's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeysaxena2507&theme=radical" /></a>
-  <a href ="https://github.com/karthikeysaxena2507" title="Redirect's to karthikey's Github">
-  <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=radical&layout=compact"/></a>
+  <a href="https://github.com/AmolSamota">
+  <img width="49%" title="Redirect's to Amol's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=AmolSamota&theme=radical" /></a>
+  <a href ="https://github.com/AmolSamota" title="Redirect's to AmolSamota's Github">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=radical&layout=compact"/></a>
   </div>
 
  <div align = "center">
@@ -29,8 +29,8 @@
   </div>
 
 </p>
-<img src='https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmolSamota&theme=tokyonight&hide_langs_below=4' align="middle" />
+<!-- <img src='https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmolSamota&theme=tokyonight&hide_langs_below=4' align="middle" /> -->
 ### About Me:
 
 - 🎓 I am currently a final year undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
