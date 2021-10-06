@@ -24,7 +24,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=radical&layout=compact"/></a>
   
   </div>
-![Profile Views](https://gpvc.arturio.dev/AmolSamota)
  <div align = "center">
   
   </div>
