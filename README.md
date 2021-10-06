@@ -16,16 +16,16 @@
  <div align = "center">
   
   <a href="https://github.com/karthikeysaxena2507" title="Redirect's to Karthikey's Github">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&theme=radical&count_private=true" /></a>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&theme=radical&count_private=true" /></a>
 
   <a href="https://github.com/karthikeysaxena2507">
-  <img width="33%" title="Redirect's to Karthikey's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeysaxena2507&theme=radical" /></a>
-  
+  <img width="24%" title="Redirect's to Karthikey's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeysaxena2507&theme=radical" /></a>
+  <a href ="https://github.com/karthikeysaxena2507" title="Redirect's to karthikey's Github">
+  <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=radical&layout=compact"/></a>
   </div>
 
  <div align = "center">
-  <a href ="https://github.com/karthikeysaxena2507" title="Redirect's to karthikey's Github">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeysaxena2507&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=radical&layout=compact"/></a>
+  
   </div>
 
 </p>
