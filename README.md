@@ -16,10 +16,10 @@
  <div align = "center">
   
   <a href="https://github.com/karthikeysaxena2507" title="Redirect's to Karthikey's Github">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&theme=radical&count_private=true" /></a>
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&theme=radical&count_private=true" /></a>
 
   <a href="https://github.com/karthikeysaxena2507">
-  <img width="49%" title="Redirect's to Karthikey's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeysaxena2507&theme=radical" /></a>
+  <img width="33%" title="Redirect's to Karthikey's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeysaxena2507&theme=radical" /></a>
   
   </div>
 
