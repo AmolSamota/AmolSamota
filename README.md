@@ -16,7 +16,7 @@
   <a href="https://github.com/AmolSamota">
   <img width="49%" title="Redirect's to Amol's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=AmolSamota&theme=radical" /></a>
   <a href ="https://github.com/AmolSamota" title="Redirect's to AmolSamota's Github">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolSamota&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=radical&layout=compact"/></a>
+<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolSamota&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=radical&layout=compact"/></a> -->
   
   </div>
  <div align = "center">
