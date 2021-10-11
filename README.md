@@ -16,7 +16,6 @@
   <a href="https://github.com/AmolSamota">
   <img width="49%" title="Redirect's to Amol's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=AmolSamota&theme=radical" /></a>
   <a href ="https://github.com/AmolSamota" title="Redirect's to AmolSamota's Github">
-<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolSamota&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=radical&layout=compact"/></a> -->
   
   </div>
  <div align = "center">
@@ -24,35 +23,19 @@
   </div>
 
 </p>
-<!-- <img src='https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmolSamota&theme=tokyonight&hide_langs_below=4' align="middle" /> -->
 
 ### About Me:
 
-- 🎓 I am currently a final year undergraduate at IIT BHU Varanasi.
-- 👨‍ I like to solve real life problems and I am interested in competitive programming.
-- ⚡ I am looking to collaborate with people/organizations and enhance my skills as a developer.
+<p>
+- I am from Udaipur, Rajasthan. I am a final year UG in Mining engineering at IIT BHU.🎓 <br />
+- Throughout my academic career, I have been fascinated with numbers and mathematical formulas. I have explored different fields of software development, and I am passionate about competitive programming and Web Development. <br />
+ - I am skilled in coding languages such as <i><b>C++, Javascript, TypeScript</b></i>. And I know <i><b>Data Structures and Algorithms, object-oriented programming, Database management system, Operating systems, and Computer Networking</b></i>. <br />
+- If I talk about Web development, I have experience in <i><b>React.js, Next.js, Nodejs, express.js</b></i>. I have completed two internships which give me a total of 6 months of experience in this industry. <br />
+- I was a <i><b>full-stack developer at natures wonder</b></i>, an organic product-based startup where I designed their purchase flow from scratch using reactjs, nodejs, and databases like MongoDB. I also built an admin panel for managing products users and sellers for the same. <br />
+- I was the <i><b>lead frontend developer in my summer intern at coox</b></i>, a service-based company in Noida. I was responsible for migrating the website to Next.js for better server-side rendering and SEO benefits.<br />
 - 🏋 Apart from coding I love working out and also I have a keen interest in Sketching.
 
-<!-- <p align="center">
-  <a href="https://github.com/karthikeysaxena2507">
-    <img src="https://github-readme-stats.vercel.app/api?username=karthikeysaxena2507&show_icons=true&hide=issues&theme=radical"/>
-  </a>
-</p> -->
-<!-- ### GitHub Stats:
-<p align="center">
-  <a href="https://github.com/AmolSamota">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&hide=issues&theme=radical"/>
-  </a>
-</p>
-
-
-### Top Languages: 
-<p align="center">
-  <a href="https://github.com/AmolSamota">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolSamota&theme=radical" align="center" />
-  </a>
-</p> -->
+ </p>
 
 ---
 
