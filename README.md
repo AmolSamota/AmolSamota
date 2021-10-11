@@ -58,7 +58,7 @@
 
 ### Social Profiles:
 <p align="center">
- <a href="https://www.linkedin.com/in/amol-samota-070b38178/"><img src="https://user-images.githubusercontent.com/71401229/134310591-91d429fe-d6b1-4855-b94d-250bcb1f3f76.jpg" width="60"></a>
+ <a href="https://www.linkedin.com/in/amol-samota-070b38178/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://www.facebook.com/amol.samota"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 <a href="https://www.instagram.com/amol.samota/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 </p>
