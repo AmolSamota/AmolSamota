@@ -26,6 +26,7 @@
 </p>
 <!-- <img src='https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AmolSamota&theme=tokyonight&hide_langs_below=4' align="middle" /> -->
+
 ### About Me:
 
 - 🎓 I am currently a final year undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
@@ -55,7 +56,7 @@
 
 ---
 
-### Find Me On:
+### Social Profiles:
 <p align="center">
  <a href="https://www.linkedin.com/in/amol-samota-070b38178/"><img src="https://user-images.githubusercontent.com/71401229/134310591-91d429fe-d6b1-4855-b94d-250bcb1f3f76.jpg" width="60"></a>
 <a href="https://www.facebook.com/amol.samota"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
@@ -63,5 +64,6 @@
 </p>
 
 ---
-### Portfolio: [Amol Samota](https://amolsamota.netlify.app/) || Codeforces: [amol.samota](https://codeforces.com/profile/amol.samota)
+### Coding Profiles:
+### Portfolio: [https://amolsamota.netlify.app/](https://amolsamota.netlify.app/) || Codeforces: [amol.samota](https://codeforces.com/profile/amol.samota) || Leetcode: [AmolSamota](https://leetcode.com/AmolSamota/)
 
