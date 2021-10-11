@@ -29,9 +29,9 @@
 
 ### About Me:
 
-- 🎓 I am currently a final year undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
-- 👨‍ I like to solve real life problems and I am interested in competitive programming
-- ⚡ I am looking to collaborate with people/organizations and enhance my skills as a developer
+- 🎓 I am currently a final year undergraduate at IIT BHU Varanasi.
+- 👨‍ I like to solve real life problems and I am interested in competitive programming.
+- ⚡ I am looking to collaborate with people/organizations and enhance my skills as a developer.
 - 🏋 Apart from coding I love working out and also I have a keen interest in Sketching.
 
 <!-- <p align="center">
