@@ -47,6 +47,6 @@
 </p>
 
 ---
-### Coding Profiles:
+### Other Relevant Profiles:
 ### Portfolio: [https://amolsamota.netlify.app/](https://amolsamota.netlify.app/) || Codeforces: [amol.samota](https://codeforces.com/profile/amol.samota) || Leetcode: [AmolSamota](https://leetcode.com/AmolSamota/)
 
