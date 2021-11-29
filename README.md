@@ -28,7 +28,7 @@
 
 <p>
 - I am from Udaipur, Rajasthan. I am a final year UG in Mining engineering at IIT BHU.🎓 <br />
-- Throughout my academic career, I have been fascinated with numbers and mathematical formulas. I have explored different fields of software development, and I am passionate about competitive programming and Web Development. <br />
+<!-- - Throughout my academic career, I have been fascinated with numbers and mathematical formulas. I have explored different fields of software development, and I am passionate about competitive programming and Web Development. <br /> -->
  - I am skilled in coding languages such as <i><b>C++, Javascript, TypeScript</b></i>. And I know <i><b>Data Structures and Algorithms, object-oriented programming, Database management system, Operating systems, and Computer Networking</b></i>. <br />
 - If I talk about Web development, I have experience in <i><b>React.js, Next.js, Nodejs, express.js</b></i>. I have completed two internships which give me a total of 6 months of experience in this industry. <br />
 - I was a <i><b>full-stack developer at natures wonder</b></i>, an organic product-based startup where I designed their purchase flow from scratch using reactjs, nodejs, and databases like MongoDB. I also built an admin panel for managing products users and sellers for the same. <br />
